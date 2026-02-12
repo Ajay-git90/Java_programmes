@@ -11,5 +11,7 @@
       Employee e2 =new Employee();
       Employee e3=new Employee();
      e1.display();
+     e2.display();
+     e3.display();
     }
 }

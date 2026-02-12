@@ -5,7 +5,7 @@ class Words_count {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a Sentance");
         String str = sc.nextLine();
-        int count=0;
+        
         str=str.trim(); //--> remove leading or trailing spaces
         String  words[]=str.split("\\s+");
 
