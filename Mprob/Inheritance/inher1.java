@@ -17,7 +17,7 @@ class HDFC extends Bank{
  }
 }
   
-class Main  
+class inher1 
 {
     public static void main (String [] s){
         Bank b1=new  SBI();
